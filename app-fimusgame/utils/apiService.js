@@ -23,3 +23,6 @@ export default {
   // Outras funções para interagir com sua API podem ser adicionadas aqui
 };
 
+
+
+
